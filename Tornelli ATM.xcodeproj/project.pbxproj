@@ -11,9 +11,9 @@
 		BCFEF7672C90E0330055A13C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCFEF7662C90E0330055A13C /* SceneDelegate.swift */; };
 		BCFEF7692C90E0330055A13C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCFEF7682C90E0330055A13C /* ViewController.swift */; };
 		BCFEF76C2C90E0330055A13C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCFEF76A2C90E0330055A13C /* Main.storyboard */; };
-		BCFEF76E2C90E0370055A13C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCFEF76D2C90E0370055A13C /* Assets.xcassets */; };
 		BCFEF7712C90E0370055A13C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCFEF76F2C90E0370055A13C /* LaunchScreen.storyboard */; };
 		BCFEF7792C90E0520055A13C /* MyImageClassifier.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = BCFEF7782C90E0500055A13C /* MyImageClassifier.mlpackage */; };
+		BCFEF7812C90F2590055A13C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCFEF7802C90F2590055A13C /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,10 +22,10 @@
 		BCFEF7662C90E0330055A13C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		BCFEF7682C90E0330055A13C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BCFEF76B2C90E0330055A13C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BCFEF76D2C90E0370055A13C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BCFEF7702C90E0370055A13C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BCFEF7722C90E0370055A13C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BCFEF7782C90E0500055A13C /* MyImageClassifier.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = MyImageClassifier.mlpackage; sourceTree = "<group>"; };
+		BCFEF7802C90F2590055A13C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../app classificazione 7.2/app classificazione 7.2/Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				BCFEF7662C90E0330055A13C /* SceneDelegate.swift */,
 				BCFEF7682C90E0330055A13C /* ViewController.swift */,
 				BCFEF76A2C90E0330055A13C /* Main.storyboard */,
-				BCFEF76D2C90E0370055A13C /* Assets.xcassets */,
+				BCFEF7802C90F2590055A13C /* Assets.xcassets */,
 				BCFEF76F2C90E0370055A13C /* LaunchScreen.storyboard */,
 				BCFEF7722C90E0370055A13C /* Info.plist */,
 				BCFEF7782C90E0500055A13C /* MyImageClassifier.mlpackage */,
@@ -129,7 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BCFEF7712C90E0370055A13C /* LaunchScreen.storyboard in Resources */,
-				BCFEF76E2C90E0370055A13C /* Assets.xcassets in Resources */,
+				BCFEF7812C90F2590055A13C /* Assets.xcassets in Resources */,
 				BCFEF76C2C90E0330055A13C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
